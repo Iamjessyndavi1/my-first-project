@@ -5,4 +5,10 @@ Git is also a local storage for project if one wants to work offline.
 Node.js- Node.js bassically runs javascript in our computers rather than only in the web browser. 
 It's used mostly because we can interact with other developers libraries and tools.
 Terminal-It's an interface used to contol the computer using text based commands. 
-We use the terminal beacuse it gives conntrol to the computer , speed and also can use terminal commands with git commands. 
+We use the terminal beacuse it gives conntrol to the computer , speed and also can use terminal commands with git commands.
+
+Extension Added.
+Auto Rename Tag. It's is a tool that mostly intergrates with HTML. It helps in making HTML errors visible and immediately. I choose it because it's beginner friendly and can prevent frastrating mistakes since HTML errors can break a whole page layout.
+
+
+
